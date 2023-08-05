@@ -1,0 +1,459 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: wiC94JujwiBbY5m1brnL5M8bQqQ=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5oVsR8xiyV1c+JYofC8AGQwnTlo=
+
+Name: assets/Vuforia/HCI.dat
+SHA1-Digest: VwBBRXZe2+8ZYItUszeidzA3gZ0=
+
+Name: assets/Vuforia/HCI.xml
+SHA1-Digest: LTyQE4w/wwwy6PZsl9TKVBLlllE=
+
+Name: assets/bin/Data/3e1fc078b34fc6146a146a72041c97d1
+SHA1-Digest: 4QBicA6ODz6uWbp8FQm+KcbLWgU=
+
+Name: assets/bin/Data/66d0d78a3000021448b598bb54a3bfdf
+SHA1-Digest: vhcVyC1Ofw/GDuVqFGQclKjG2Vg=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: ekWBZ53wL3zXJfSOtYyK8LIOHhI=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: kMbpQi7uO02I3wbba9E2erSI17M=
+
+Name: assets/bin/Data/Managed/System.ComponentModel.Composition.dll
+SHA1-Digest: 9IZu/ssl/uZx5/gFqbFmfwl4oZw=
+
+Name: assets/bin/Data/Managed/System.Configuration.dll
+SHA1-Digest: 8MpG8z6FjDFSnTOyaxpocxFyaGk=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: if2VbUlaPW/eLQNMWvbvvEdVg7Y=
+
+Name: assets/bin/Data/Managed/System.Data.dll
+SHA1-Digest: 4xgj12CRslPgyw2uG0X2Ji+1gaQ=
+
+Name: assets/bin/Data/Managed/System.Diagnostics.StackTrace.dll
+SHA1-Digest: MEqjs7k+3aNf+mzO7QO78pOIRqQ=
+
+Name: assets/bin/Data/Managed/System.Drawing.dll
+SHA1-Digest: 4YgDyVzkPb2d/2YtFy6Lt5xwQnc=
+
+Name: assets/bin/Data/Managed/System.EnterpriseServices.dll
+SHA1-Digest: qPRfolRurOlGR4tUMxmvKiy4gSU=
+
+Name: assets/bin/Data/Managed/System.Globalization.Extensions.dll
+SHA1-Digest: LIT1gdHmh9+aGCCbd3wy4Ql+sWs=
+
+Name: assets/bin/Data/Managed/System.IO.Compression.FileSystem.dll
+SHA1-Digest: N8azFrvzkbsaGhFHjqUVgHbHbe4=
+
+Name: assets/bin/Data/Managed/System.IO.Compression.dll
+SHA1-Digest: U254bInqoyi5+SXL7ch5YRAuuSg=
+
+Name: assets/bin/Data/Managed/System.Net.Http.dll
+SHA1-Digest: 1FITPwe/YArAbKE8v1COQmu66J0=
+
+Name: assets/bin/Data/Managed/System.Numerics.dll
+SHA1-Digest: jQmLcWM4JLTTan1L3zZLs06G+40=
+
+Name: assets/bin/Data/Managed/System.Runtime.Serialization.Xml.dll
+SHA1-Digest: 9x+csN7pE0RGFBtn2PAxZ0RP1Go=
+
+Name: assets/bin/Data/Managed/System.Runtime.Serialization.dll
+SHA1-Digest: Xwb1953mBoFybkuKngobYQxWxM8=
+
+Name: assets/bin/Data/Managed/System.ServiceModel.Internals.dll
+SHA1-Digest: vMUuP9QF1gthZTPkF7HZpg9Gah4=
+
+Name: assets/bin/Data/Managed/System.Transactions.dll
+SHA1-Digest: xIPnLD0K6tqglNUV8CUoKUbnEkE=
+
+Name: assets/bin/Data/Managed/System.Xml.Linq.dll
+SHA1-Digest: 73TWc1jDYcVHkRPyJKQdV1Y96Ls=
+
+Name: assets/bin/Data/Managed/System.Xml.XPath.XDocument.dll
+SHA1-Digest: /v3VueQriE+RRGWJnQV/LA4pU2I=
+
+Name: assets/bin/Data/Managed/System.Xml.dll
+SHA1-Digest: 0XgUFopcI1j8qBwrJaFBx3YLFh4=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: YBmrsSulLpzU30OAyeeTuhIdFgs=
+
+Name: assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll
+SHA1-Digest: KEAbFRHT093OLLe0eIg8H4MuyOY=
+
+Name: assets/bin/Data/Managed/Unity.TextMeshPro.dll
+SHA1-Digest: XYeKbkFl8oic4vy0lI5FIQTrCcY=
+
+Name: assets/bin/Data/Managed/UnityEngine.AIModule.dll
+SHA1-Digest: x/mEGiKzi6gpJXK5Uzjl5aRbS/M=
+
+Name: assets/bin/Data/Managed/UnityEngine.ARModule.dll
+SHA1-Digest: Tob2j2OaenFntvmNU7o746THoqE=
+
+Name: assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll
+SHA1-Digest: 7zDC+VM6kV7inVPxIZiR/XzBXps=
+
+Name: assets/bin/Data/Managed/UnityEngine.AnimationModule.dll
+SHA1-Digest: Ju6jCynTmNXKw7Iqfesj2fmY+2E=
+
+Name: assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll
+SHA1-Digest: 5ko6SfnOYGOLy1Ql3BG9njcVC+8=
+
+Name: assets/bin/Data/Managed/UnityEngine.AudioModule.dll
+SHA1-Digest: HKT3j1/CGyFJTSOnbePiDfHzpzk=
+
+Name: assets/bin/Data/Managed/UnityEngine.BaselibModule.dll
+SHA1-Digest: l9KCrFP0LNc90uM7sw13m4kH1og=
+
+Name: assets/bin/Data/Managed/UnityEngine.ClothModule.dll
+SHA1-Digest: 1KJ0Rlr9Ii19RT58kyKBeS5aP9c=
+
+Name: assets/bin/Data/Managed/UnityEngine.CoreModule.dll
+SHA1-Digest: weHxOrLgE8pM3wjWaWo6usNp/Oo=
+
+Name: assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll
+SHA1-Digest: kViCvSZYqPQSShnarrVAf9EHFN4=
+
+Name: assets/bin/Data/Managed/UnityEngine.DirectorModule.dll
+SHA1-Digest: 60exO5Ma3360oWWtTP+qOcC7dvg=
+
+Name: assets/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll
+SHA1-Digest: E9XFoZdoL3mVmeMhEGbeSvHrOSo=
+
+Name: assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll
+SHA1-Digest: gxbn2tPcF7w7vwhW1ggiqZy7r/0=
+
+Name: assets/bin/Data/Managed/UnityEngine.GridModule.dll
+SHA1-Digest: RII86H0xZdgUFVPzW5NMdKx2qnM=
+
+Name: assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll
+SHA1-Digest: CrpD26bg4IolWrpquDFUebWDvQI=
+
+Name: assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll
+SHA1-Digest: DWnE6WWKLCllfnAoAGeMzO5SDZk=
+
+Name: assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll
+SHA1-Digest: MkqctRxHaDGi2AuPEBm7Lwyj3y8=
+
+Name: assets/bin/Data/Managed/UnityEngine.InputModule.dll
+SHA1-Digest: Pwfeu0H68zVP5YOk+s3A7XFyNtQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll
+SHA1-Digest: z41y4lpX+ryC721D6UZuZD2beJM=
+
+Name: assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll
+SHA1-Digest: 4DRix7UwtOU/vdIz8hGFXFBFRXg=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA1-Digest: q0YUSfJhxnJ/mmeWQuUgzKSFXlA=
+
+Name: assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll
+SHA1-Digest: fGAqHUav/I6aAEMptTJmvIYowyc=
+
+Name: assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.d
+ ll
+SHA1-Digest: c4ZFcIttQ6yN/y5JpHuBSXfURVU=
+
+Name: assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll
+SHA1-Digest: VEoMbyhvREP2FYGF2gXRYm6baIw=
+
+Name: assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll
+SHA1-Digest: PivNy4LxNpAGkHjIMKOnkkyQ1EU=
+
+Name: assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll
+SHA1-Digest: GdMVvZANOF2YB6SeLwFOPdyKcXE=
+
+Name: assets/bin/Data/Managed/UnityEngine.Purchasing.dll
+SHA1-Digest: 8fzrhmcPFrZYBRHHW95GKD+4d5E=
+
+Name: assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+SHA1-Digest: sEoVw6e66eIZulgT4KMYl+/cRJ4=
+
+Name: assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll
+SHA1-Digest: K4DGic+GTkIidtnl8FzOhhhjZVo=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll
+SHA1-Digest: lTcmmDrp/7hnBSbM7sY2JXqS3aM=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpatialTrackingModule.dll
+SHA1-Digest: AH97Usk+8SwZfnkWsHjX6Pt+FKI=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll
+SHA1-Digest: v5ZOgLzNZhNBXbH9GUgOJbdS6KM=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll
+SHA1-Digest: 39SpFlyfx8jH7chF636FwstLd1w=
+
+Name: assets/bin/Data/Managed/UnityEngine.StreamingModule.dll
+SHA1-Digest: ioE4endVFox7oNqJ785UC1KpYYo=
+
+Name: assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll
+SHA1-Digest: wIVdbIKWXOovuhsObBVdJ+oorys=
+
+Name: assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll
+SHA1-Digest: bbu5ndIb8mnQ81wFkljQeQhlOoI=
+
+Name: assets/bin/Data/Managed/UnityEngine.TLSModule.dll
+SHA1-Digest: tnRENE+PdCs8W9aJ7ZBfUkR/n1M=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainModule.dll
+SHA1-Digest: 3xqJmvCs4y83d5AdBaGkFPTrFBw=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+SHA1-Digest: eu57+lZOMXBqf563QzZYzNRzsyE=
+
+Name: assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll
+SHA1-Digest: oZTHt8fxwO8DWjce3JaMWfG9ZJs=
+
+Name: assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll
+SHA1-Digest: qWYZ+f1AefQRUleUy/DvA6tVOYM=
+
+Name: assets/bin/Data/Managed/UnityEngine.TilemapModule.dll
+SHA1-Digest: 7hA5flwfhgVZYoqAip1PM9+zZ/k=
+
+Name: assets/bin/Data/Managed/UnityEngine.Timeline.dll
+SHA1-Digest: WPuAs4695FrWZ5jzcK12L9nRRW4=
+
+Name: assets/bin/Data/Managed/UnityEngine.TimelineModule.dll
+SHA1-Digest: 3BShF7NNtOvS79dYFi7PG8pro04=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: C1jl0OnCwWzpeFipq5B9O6WImAQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll
+SHA1-Digest: e4JaSHZEx0zIpWWhpsWXfwqezxU=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIModule.dll
+SHA1-Digest: /88oL2eoCYeIvAzGb9/t+Io445E=
+
+Name: assets/bin/Data/Managed/UnityEngine.UNETModule.dll
+SHA1-Digest: R58gfurwbEE0qaX1GAhMj0s6oMw=
+
+Name: assets/bin/Data/Managed/UnityEngine.UmbraModule.dll
+SHA1-Digest: AZXdRInruj3MO0roKx8HG/BjYYs=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+SHA1-Digest: t2fNjRG7PMD3JlLNcihb7eMRL48=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll
+SHA1-Digest: 9TXIy+5RL6q5M1Yr2NzvRBFa82A=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+SHA1-Digest: lmRWmK0oFWQwexAoUpTg91atSpg=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleMo
+ dule.dll
+SHA1-Digest: L/THMW5WfrSojNceu2PTfVBC98I=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.d
+ ll
+SHA1-Digest: xhaWYsaNdFwW6rZRUeS4VXv/SjM=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+SHA1-Digest: eRIreiNkXNdBvZLB7Rh/piu4dy8=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule
+ .dll
+SHA1-Digest: zXzqQ/cGNffC63W6SXvDtGcBXQA=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+SHA1-Digest: wBplzgv3vUkYfC5SYLSrXsl1rrU=
+
+Name: assets/bin/Data/Managed/UnityEngine.VFXModule.dll
+SHA1-Digest: ZK4XmkJ1myzw8PvkSLm9Nuxylcw=
+
+Name: assets/bin/Data/Managed/UnityEngine.VRModule.dll
+SHA1-Digest: jU5wR2HzxaBlAuSHpbTXcp5mNro=
+
+Name: assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll
+SHA1-Digest: ba8nIQEAqVsqbW88nU9A9Pz610c=
+
+Name: assets/bin/Data/Managed/UnityEngine.VideoModule.dll
+SHA1-Digest: e7lGNbbyRk/tgP3rdsWqTtBHIsI=
+
+Name: assets/bin/Data/Managed/UnityEngine.WindModule.dll
+SHA1-Digest: 3cMw6b1PTA9hmfPb6lPisBAnT38=
+
+Name: assets/bin/Data/Managed/UnityEngine.XRModule.dll
+SHA1-Digest: WYv8hrXq8eiAXOjEyrY2PL13DRE=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: oPtD0ZukIElY/GtQGiOXaKLv2aQ=
+
+Name: assets/bin/Data/Managed/Vuforia.UnityExtensions.dll
+SHA1-Digest: HgxsyZLMWQ1uwsoZVuUfAR2gZ3U=
+
+Name: assets/bin/Data/Managed/VuforiaScripts.dll
+SHA1-Digest: vTgCvIs+9yt/G9yWeM3TqGwXfsg=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: mcvgW7v1CkXM4AJxwJgjHZePuc4=
+
+Name: assets/bin/Data/Managed/netstandard.dll
+SHA1-Digest: vk0Iq5+N6DvDWeOtcIGsiNi9AQ0=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: EnpKss677fHjoVoZemgGdtute6U=
+
+Name: assets/bin/Data/boot.config
+SHA1-Digest: OBG2Gt5AbOvmCGuRwrWMh6LiI2U=
+
+Name: assets/bin/Data/f40623b353e2f1943b1b3ba42975db7a
+SHA1-Digest: fPWcK8xHoO9NmgB1I5HKvLp5m4o=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA1-Digest: tHc5gQc8eLuIrkWJA5XGDBLcEZE=
+
+Name: assets/bin/Data/globalgamemanagers.assets
+SHA1-Digest: 9DQQplxfo+JhJ7RFTXqKNE52Erw=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: qpyTOIvut9/WUZZUWItz6R1+kv4=
+
+Name: assets/bin/Data/level1
+SHA1-Digest: wnLER+aYCdoNIjNZMEwkon3G/dg=
+
+Name: assets/bin/Data/level2
+SHA1-Digest: ASdHIPyzjSNn+1n6T665iGav2jw=
+
+Name: assets/bin/Data/sharedassets0.assets.split0
+SHA1-Digest: ZLS4TUmQZAaql+lQ7XwQXZZVSVg=
+
+Name: assets/bin/Data/sharedassets0.assets.split1
+SHA1-Digest: 2pAAyi4BBpg0Upd21DB45C2G/Mk=
+
+Name: assets/bin/Data/sharedassets0.assets.split10
+SHA1-Digest: kW5z/w1yODIPipOKT6fSAtZCsWU=
+
+Name: assets/bin/Data/sharedassets0.assets.split11
+SHA1-Digest: VcPGCk7PxAEYDOFo62OY+wn7Mp0=
+
+Name: assets/bin/Data/sharedassets0.assets.split12
+SHA1-Digest: HhfHKZ0yR3k74yW4hQLhhrt+X6M=
+
+Name: assets/bin/Data/sharedassets0.assets.split13
+SHA1-Digest: ZYcCAgaiGBtDiyH2/Ys+Bjf4EfI=
+
+Name: assets/bin/Data/sharedassets0.assets.split14
+SHA1-Digest: l9EHOkqTg9K9S5l1Xdsh2Lv/2e8=
+
+Name: assets/bin/Data/sharedassets0.assets.split15
+SHA1-Digest: MA0eWkmWD01w5/HQykkvj7c3B6c=
+
+Name: assets/bin/Data/sharedassets0.assets.split2
+SHA1-Digest: Pmr6mQzkX88xypJdm9nYXuD+51w=
+
+Name: assets/bin/Data/sharedassets0.assets.split3
+SHA1-Digest: XZ1ktornNd46SVa+/PkorRE60Cg=
+
+Name: assets/bin/Data/sharedassets0.assets.split4
+SHA1-Digest: /ATbwPHUs5dM8+2I39aBs3zATBk=
+
+Name: assets/bin/Data/sharedassets0.assets.split5
+SHA1-Digest: rOOs3MBMjJ0mFvWz6IfbCYd+55E=
+
+Name: assets/bin/Data/sharedassets0.assets.split6
+SHA1-Digest: iDtUS246oaVniC+O9+0IY7K9fPk=
+
+Name: assets/bin/Data/sharedassets0.assets.split7
+SHA1-Digest: LrtqoKRfzBEkD3Ycjrzw9kFqIBc=
+
+Name: assets/bin/Data/sharedassets0.assets.split8
+SHA1-Digest: eOtyHrwt3oLZaVSfILQ5RhJfckQ=
+
+Name: assets/bin/Data/sharedassets0.assets.split9
+SHA1-Digest: NvQXDydL0hHmCXqgsVDBIviFOSc=
+
+Name: assets/bin/Data/sharedassets1.assets
+SHA1-Digest: Uvjdp+rFBwHc2vWb1pRZObwO62s=
+
+Name: assets/bin/Data/sharedassets2.assets.split0
+SHA1-Digest: 2Jkk5PYYW3+zTwj+NFMOm31vknI=
+
+Name: assets/bin/Data/sharedassets2.assets.split1
+SHA1-Digest: Tl/jZhszfpBfq/1uOlatKdjPbEk=
+
+Name: assets/bin/Data/sharedassets2.assets.split2
+SHA1-Digest: /K4kkfiwU8wNJ/UNEGc3x6NOHmc=
+
+Name: assets/bin/Data/sharedassets2.assets.split3
+SHA1-Digest: /1yIDvwGm6qMJysAJ20jKaA57o4=
+
+Name: assets/bin/Data/sharedassets2.assets.split4
+SHA1-Digest: 9RaJyjcdBZqsWpdpzbVgSjVu5ao=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: fZCCiD8FejwQR2Nir3p+bsIVEQs=
+
+Name: classes.dex
+SHA1-Digest: SgOAZZq7NzqfsvHJj9ageYqKZVM=
+
+Name: lib/armeabi-v7a/libMonoPosixHelper.so
+SHA1-Digest: 5NMylG4Ww+BLCKmPqCty9KDag8A=
+
+Name: lib/armeabi-v7a/libVuforia.so
+SHA1-Digest: 9CoBTO35RcLVMg0HR5Gs3oeJIIQ=
+
+Name: lib/armeabi-v7a/libVuforiaUnityPlayer.so
+SHA1-Digest: j+veXOnXzNp4WO9QMCObv0Ma6X4=
+
+Name: lib/armeabi-v7a/libVuforiaWrapper.so
+SHA1-Digest: KDwm9q6Ffi1cUk1JXh2Mj2RyvYI=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: j8OPoIcTR+SFpnFruohwakNLZck=
+
+Name: lib/armeabi-v7a/libmonobdwgc-2.0.so
+SHA1-Digest: JcYPEIEFoW10pZjfZSDxAMfBPGg=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: PGejTeFVk9tU0x6hIJCzdMI6PCk=
+
+Name: lib/x86/libMonoPosixHelper.so
+SHA1-Digest: Frm+u9SMsZsTTLLbz8Fn6LNwUQQ=
+
+Name: lib/x86/libVuforia.so
+SHA1-Digest: lHH/ZmEYqSDd8GB8I3lZac4ltpA=
+
+Name: lib/x86/libVuforiaUnityPlayer.so
+SHA1-Digest: CpjnRMXh7kU6EFqYqamdHMN4hjo=
+
+Name: lib/x86/libVuforiaWrapper.so
+SHA1-Digest: 1qExBG3RNR74GSoCPy9lofy03wQ=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: el2CDHJi4j9YsMn85jJThv+gEDg=
+
+Name: lib/x86/libmonobdwgc-2.0.so
+SHA1-Digest: rUB7N/7KLqGHjncwL2ctyXZnx4k=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: MnrPbzn9qjqizbQf8V0mFCnXPDc=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: 4OUDBiJIEcSndnJyRQfkV2eFVY4=
+
+Name: res/mipmap-anydpi-v26/app_icon.xml
+SHA1-Digest: PXy3J0YJxOvN4nUBbvz1uwu/cMU=
+
+Name: res/mipmap-anydpi-v26/app_icon_round.xml
+SHA1-Digest: +YEyqQMzDS5XWxYgGPKdIuuoWEg=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA1-Digest: zBuszHOFQEOU++Q+hNHxDWQWnXY=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_background.png
+SHA1-Digest: NH3/IyrTxEp5dTgsRdDHCyDOjSU=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: JWq0Ls8bV6yvd2GbKTboiIMrT/M=
+
+Name: resources.arsc
+SHA1-Digest: 9lic+1eq2kIGAwqJTuO67OANGbI=
+

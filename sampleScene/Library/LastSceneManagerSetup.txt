@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/object_movement.unity
+  isLoaded: 1
+  isActive: 1

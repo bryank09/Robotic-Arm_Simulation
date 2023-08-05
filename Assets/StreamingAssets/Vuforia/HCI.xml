@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ucsi_vuforia" size="10.000000 5.625000" />
+    <ImageTarget name="IMG_6866" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>

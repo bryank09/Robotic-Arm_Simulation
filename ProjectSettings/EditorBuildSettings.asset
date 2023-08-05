@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Robotic Arm/Scenes/Menu.unity
+    guid: 780bfbc9a66dc1444901b88f107b31d2
+  - enabled: 1
+    path: Assets/Robotic Arm/Scenes/Sample_tutorial.unity
+    guid: cdbd98474f25e8a47a28e9d97bea7733
+  - enabled: 1
+    path: Assets/Robotic Arm/Scenes/Sample.unity
+    guid: 25275c9f4097437458fecbe112bf424b
+  m_configObjects: {}
