@@ -1,4 +1,4 @@
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/888c1a85-4f98-4a1e-bfae-6d888b53c349)# Robotic-Arm_Simulation
+# Robotic-Arm_Simulation
 ![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/0762d658-994d-4b75-9d56-62642d6981ce)
 
 Table of Content
