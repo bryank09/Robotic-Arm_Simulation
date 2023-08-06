@@ -28,7 +28,7 @@ By creating a simulation that doesn't need any component or tools, industrial ac
 
 ### User Installation
 - Install application APK: https://drive.google.com/drive/folders/1wU5zciZLA-gxMuRcDp46-2fCdCwtstsg?usp=sharing
-*I'm very sorry I couldn't find a way to upload the file to github as its over 25mb :(*
+> *I'm very sorry I couldn't find a way to upload the application to github as its over 25mb :(*
 
 ### Developer Prerequisites
 - Install Unity v2018.4.36 at: https://unity.com/releases/editor/archive
