@@ -1,8 +1,9 @@
 # Robotic-Arm_Simulation
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/0762d658-994d-4b75-9d56-62642d6981ce)
 
 Table of Content
 
-# About the Project
+## About the Project
 With Augmented Reality (AR) and Virtual Reality (VR) emerged, we can harness the functionality offered by them to enhance user experience when designing an application. In this project, those technology was used to develop a Robotic Arm Simulation Application. Through this application, users will be able to simulate the operations of a robotic arm, such as picking up objects and moving them to desired destination. 
 
 This project mainly focus on achieving these 3 objectives,
@@ -20,11 +21,20 @@ By creating a simulation that doesn't need any component or tools, industrial ac
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Getting Started
+### User
+#### Prerequisites
+- Android Phone
+- Google VR Head Set
+- Joystick Controller
 
-### Prerequisites
+#### Installation
+- 
+
+### Developer
+#### Prerequisites
 - Install Unity v2018.4.36 at: https://unity.com/releases/editor/archive
 - Install Vuforia SDK Unity at: https://developer.vuforia.com/downloads/sdk
 - Install android studio at: https://developer.android.com/studio?gclid=CjwKCAjw5remBhBiEiwAxL2M94JO-4HcHwtSmyBrWxHAJMQr0hyDYNcXPbcOXV46PiKF2LmrLyWKZBoCj0sQAvD_BwE&gclsrc=aw.ds
 - Install Google VR SDK at: https://github.com/googlevr/gvr-unity-sdk/releases
 
-### Installation
+#### Installation
