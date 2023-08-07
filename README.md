@@ -1,8 +1,6 @@
 # Robotic-Arm_Simulation
 ![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/0762d658-994d-4b75-9d56-62642d6981ce)
 
-Table of Content
-
 ## About the Project
 With Augmented Reality (AR) and Virtual Reality (VR) emerged, we can harness the functionality offered by them to enhance user experience when designing an application. In this project, those technology was used to develop a Robotic Arm Simulation Application. Through this application, users will be able to simulate the operations of a robotic arm, such as picking up objects and moving them to desired destination. 
 
