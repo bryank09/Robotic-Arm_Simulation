@@ -1,5 +1,5 @@
-# Robotic-Arm_Simulation
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/0762d658-994d-4b75-9d56-62642d6981ce)
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/5d72ddf1-f109-4514-b419-9b57872c047d)# Robotic-Arm_Simulation
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/9f35477c-6886-48bb-87dc-3dad5027977b)
 
 ## About the Project
 With Augmented Reality (AR) and Virtual Reality (VR) emerged, we can harness the functionality offered by them to enhance user experience when designing an application. In this project, those technology was used to develop a Robotic Arm Simulation Application. Through this application, users will be able to simulate the operations of a robotic arm, such as picking up objects and moving them to desired destination. 
@@ -45,19 +45,19 @@ All the Scenes is located in Assets>Robotic Arm>Scenes
 > **Side Note:** when navigating with a different type of controller, you might need to edit the input in Unity __Edit>Project Settings>Input__ and build the application again.
 
 ### Menu Scene ( Menu.unity )
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/668f921a-2439-495b-8443-fc77cd301f2b)
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/09c4a126-864f-469b-88b6-90746200598e)
 
 - Menu scene is the first scene that the user will see and acts as a starting page for our application.
 - Click any button to go to the tutorial Scene
 
 ### Tutorial Scene ( Sample_tutorial.unity )
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/9f8fbb43-d796-4420-aefa-2f99d4a05c20)
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/0882ccd6-1308-4820-b273-d15313310b28)
 
 - Tutorial Scene is where we would describe the functionalities and purpose of each object and components presented in the simulation.
 - User could navigate through the tutorial or skip to the simulation using the buttons in the panel.
 
 ### Simulation Scene ( Sample.unity )
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/7c027c44-99b5-4a86-9151-00ae9720d9b7)
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/e3ca0c90-5de2-4f7e-a731-5ac167d60da9)
 
 There are 2 main controls inside the simulation scene, the sliders and button. Users could navigate between them by clicking a button. Both controls are used and controlled by the joystick to execute / adjust the robotic arm functionality to achieve the desired objective in the simulation.
 
@@ -89,13 +89,13 @@ The Robotic Arm Simulation Application was released to 10 users between the age 
 
 
 ### Usability Results
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/c16b2e8a-de0b-4ec9-ad9b-57e2484d8cd1)
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/8b4730d2-84f8-4d19-8679-a4a882eaad33)
 
 ### Ease of Learning Result
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/4e3a6f3e-7440-4732-bbd9-58e829b160b9)
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/47759183-fff0-476a-af9c-362535d323ac)
 
 ### Satisfaction Result
-![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/fddc7aa6-acb9-43e0-b4ae-06ec7e1251c1)
+![image](https://github.com/bryank09/Robotic-Arm_Simulation/assets/107078925/c24f2df2-7298-4c56-9172-166cfda0ee49)
 
 ## Limitation
 We also found some limitations throughout the whole simulation; the first limitation is tracking accuracy of the robot gripper. The identification and synchronization of the AR markers with the real-word environment were not always accurate, which might cause the objects to move randomly or to go missing. Second the RigidBody object kept falling down the plane in an AR setting, that is why we freeze the target object so it only have the rigidbody effect when the gripper has the posession of the object.
@@ -106,3 +106,6 @@ We also found some limitations throughout the whole simulation; the first limita
 - Osama Hisham Mosaad Ibrahim Abusetta
 - Kong Ping Hao
 - Ahmed Rafat Abdelaziz Soliman Elkilany
+
+## Project Advisor
+- Dr. Chu Yih Bing
